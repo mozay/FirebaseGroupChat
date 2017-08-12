@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirebaseGroupChat</string>
+    <string name="hintemail">Email</string>
+    <string name="hintpass">Password</string>
+    <string name="loginbtn">Sign In</string>
+    <string name="registerTxt"><u>Sign Up</u></string>
+    <string name="emptyfield">Empty Field!</string>
+    <string name="logout">LogOut</string>
+</resources>
